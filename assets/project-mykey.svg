@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1b3155"/><stop offset="1" stop-color="#0b1730"/></linearGradient><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9cb4ff"/><stop offset="1" stop-color="#ffffff"/></linearGradient></defs>
+<rect width="800" height="420" fill="url(#bg)"/><circle cx="650" cy="85" r="150" fill="#9cb4ff" opacity=".08"/><circle cx="110" cy="380" r="180" fill="#9cb4ff" opacity=".06"/>
+<g opacity=".15" stroke="#fff"><path d="M0 70H800M0 140H800M0 210H800M0 280H800M0 350H800"/><path d="M80 0V420M160 0V420M240 0V420M320 0V420M400 0V420M480 0V420M560 0V420M640 0V420M720 0V420"/></g>
+<rect x="455" y="55" width="245" height="305" rx="28" fill="#fff" opacity=".08" stroke="#fff" stroke-opacity=".35"/>
+<rect x="480" y="82" width="195" height="250" rx="20" fill="#fff" opacity=".07"/>
+<circle cx="578" cy="170" r="54" fill="#9cb4ff" opacity=".18"/><text x="578" y="190" font-family="Arial,sans-serif" font-size="58" text-anchor="middle" fill="url(#a)">⌂</text>
+<rect x="510" y="245" width="136" height="10" rx="5" fill="#fff" opacity=".7"/><rect x="530" y="267" width="96" height="7" rx="3" fill="#fff" opacity=".3"/>
+<text x="70" y="165" font-family="Arial,sans-serif" font-size="47" font-weight="700" fill="#fff">MyKey</text>
+<text x="72" y="207" font-family="Arial,sans-serif" font-size="17" letter-spacing="4" fill="#9cb4ff">PROPERTY & VEHICLES</text>
+<path d="M72 248h190" stroke="#9cb4ff" stroke-width="4" stroke-linecap="round"/><circle cx="270" cy="248" r="5" fill="#fff"/>
+<text x="72" y="294" font-family="Arial,sans-serif" font-size="17" fill="#c9d7e8">SMART LAND DIGITAL SOLUTIONS</text>
+</svg>
